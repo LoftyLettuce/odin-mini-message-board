@@ -1,0 +1,22 @@
+:root {
+  --black: #11111b;
+  --white: #cdd6f4;
+}
+.message-meta {
+  display: flex;
+  justify-content: space-between;
+  background-color: #b4befe;
+  padding: 1rem;
+  color: var(--black);
+}
+.messages-board {
+  list-style: none;
+  padding: 1rem;
+}
+.message-container {
+  padding-bottom: 2rem;
+}
+body {
+  background-color: #11111b;
+  color: #cdd6f4;
+}
